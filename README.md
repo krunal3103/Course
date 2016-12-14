@@ -45,7 +45,7 @@ The following schedule is subject to change.
 | Oct  6   | Fall Break                       |            |                   |
 | Oct 11   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)        |            |                   |
 | Oct 13   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)             |            | [HW4](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
-| Oct 18   | [Empirical Software Engineering](https://computinged.wordpress.com/2010/11/27/there-is-no-first-in-cs1/)   |            |                   |
+| Oct 18   | [Empirical Software Engineering](https://docs.google.com/presentation/d/1WtYKlr1X7H9-pnwXNODwzVZRfF9RRoaxezyhlSmxeME/edit)   |            |                   |
 | Oct 20   | [Workshop: Data Analysis](https://github.com/CSC-510/Course/blob/master/DataWorkshop.md)          |            |[MILESTONE: SERVICE](https://github.com/CSC-510/Course/blob/master/Project/SERVICE.md) |            
 | Oct 25   | [Interviews](https://github.com/CSC-510/Course/blob/master/Materials/techinterviews_csc510.pdf)                       |            |                   |
 | Oct 27   | [Workshop: Mock Interviews](https://github.com/CSC-510/Course/blob/master/Interviews.md)        |            |                   |
@@ -57,6 +57,6 @@ The following schedule is subject to change.
 | Nov 17   | [Final Practice](https://github.com/CSC-510/Course/blob/master/FinalReview.md)                        |            |                   |
 | Nov 22   | [Workshop: Docker](https://github.com/CSC-510/Course/blob/master/Materials/Docker.md)                 |            |                   |
 | Nov 24   | Thanksgiving                     |            |                   |
-| Nov 29   | Productivity (PSP+SSP)           |            | MILESTONE: REPORT |
-| Dec  1   | Demos                            |            |                   |
-| Dec  6   | Exam (8:00AM--10:00AM)           |            |                   |
+| Nov 29   | [Productivity (PSP+SSP)](https://docs.google.com/presentation/d/1xOcZWB1_Swk-6j_i37WbxXIFY0kTtaQ3ctiP5p2pp1M/edit#slide=id.g13c62e42db_0_0)           |            | [MILESTONE: REPORT](https://github.com/CSC-510/Course/blob/master/Project/REPORT.md) |
+| Dec  1   | [Demos](https://docs.google.com/spreadsheets/d/1yaO-1RPo7TGf_uWM6XQcmmfXRh4vfa_tjBxTf0IBtxc/edit#gid=0)                            |            |                   |
+| Dec  6   | Exam (8:00AM--10:00AM)           |  [Guide](FinalReviewGuide.md), [Practice](FinalReview.md)          |                   |
